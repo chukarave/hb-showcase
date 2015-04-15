@@ -21,7 +21,7 @@ Create a virtual machine for development:
 
 1. ```vagrant ssh```
 1. ```cd /srv/www/hb-showcase.local/```
-1. ```git clone git clone git@github.com:berlinonline/hb-showcase.git .```
+1. ```git clone git@github.com:berlinonline/hb-showcase.git .```
 1. ```make install```
 1. ```bin/cli core.migrate.run``` 
 
